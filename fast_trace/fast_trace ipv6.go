@@ -141,7 +141,7 @@ func FastTestv6(traceMode trace.Method, outEnable bool, paramsFastTrace ParamsFa
 
 	oe = outEnable
 
-	fmt.Println("您想测试哪些ISP的路由？\n1. 北京三网快速测试\n2. 上海三网快速测试\n3. 广州三网快速测试\n4. 全国电信\n5. 全国联通\n6. 全国移动\n7. 全国教育网\n8. 全国五网")
+	fmt.Println("您想测试哪些ISP的路由？\n1. 玉林三网快速测试\n2. 上海三网快速测试\n3. 广州三网快速测试\n4. 全国电信\n5. 全国联通\n6. 全国移动\n7. 全国教育网\n8. 全国五网")
 	fmt.Print("请选择选项：")
 	_, err := fmt.Scanln(&c)
 	if err != nil {
