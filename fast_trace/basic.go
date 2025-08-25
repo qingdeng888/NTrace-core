@@ -50,8 +50,8 @@ var Beijing = BackBoneCollection{
 	Location: "北京",
 	CT163: ISPCollection{
 		ISPName: CT163,
-		IP:      "ipv4.pek-4134.endpoint.nxtrace.org.",
-		IPv6:    "ipv6.pek-4134.endpoint.nxtrace.org.",
+		IP:      "ct.qingcloud.eu.org.",
+		IPv6:    "ct6.qingcloud.eu.org.",
 	},
 
 	CTCN2: ISPCollection{
@@ -61,8 +61,8 @@ var Beijing = BackBoneCollection{
 
 	CU169: ISPCollection{
 		ISPName: CU169,
-		IP:      "ipv4.pek-4837.endpoint.nxtrace.org.",
-		IPv6:    "ipv6.pek-4837.endpoint.nxtrace.org.",
+		IP:      "cu.qingcloud.eu.org.",
+		IPv6:    "cu6.qingcloud.eu.org.",
 	},
 
 	CU9929: ISPCollection{
@@ -72,8 +72,8 @@ var Beijing = BackBoneCollection{
 
 	CM: ISPCollection{
 		ISPName: CM,
-		IP:      "ipv4.pek-9808.endpoint.nxtrace.org.",
-		IPv6:    "ipv6.pek-9808.endpoint.nxtrace.org.",
+		IP:      "cm.qingcloud.eu.org.",
+		IPv6:    "cm6.qingcloud.eu.org.",
 	},
 
 	CMIN2: ISPCollection{
