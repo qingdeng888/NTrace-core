@@ -434,7 +434,7 @@ func (f *FastTracer) testEDU() {
 	f.tracert(TestIPsCollection.Hefei.Location, TestIPsCollection.Hefei.CST)
 }
 
-func (f *FastTracer) testFastBJ() {
+func (f *FastTracer) testFastYL() {
 	f.tracert(TestIPsCollection.Beijing.Location, TestIPsCollection.Beijing.CT163)
 	f.tracert(TestIPsCollection.Beijing.Location, TestIPsCollection.Beijing.CU169)
 	f.tracert(TestIPsCollection.Beijing.Location, TestIPsCollection.Beijing.CM)
